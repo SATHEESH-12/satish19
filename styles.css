@@ -1,0 +1,52 @@
+body{
+  background-color: wheat;
+}
+.nav{
+    background-color:wheat;
+    height:87px;
+}
+
+.pic{
+    color:black;
+    text-decoration:none;
+    display:inline-block;
+    height:max-content;
+    margin:10px ;
+}
+i:hover{
+    color: rgb(4, 105, 221);
+    
+}
+i,d{
+    display:block;
+    color:black;
+
+}
+table{
+margin:auto;
+width:80%;
+}
+
+table,td,tr,th{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+.link{
+  text-decoration:none;
+  color:blue;
+}
+
+
+.link:hover{
+  color:violet;
+}
+.link:visited{
+    color:blue;
+}
+
+p{
+  margin:auto;
+  width:max-content;
+  font-size:30px;
+}

@@ -1,0 +1,72 @@
+body {
+    background-color:wheat;
+}
+
+.nav{
+    background-color:wheat;
+    height:87px;
+}
+
+.pic{
+    color:black;
+    text-decoration:none;
+    display:inline-block;
+    height:max-content;
+    margin:10px ;
+}
+i:hover{
+    color: rgb(4, 105, 221);
+    
+}
+i,d{
+    display:block;
+    color:black;
+
+}
+form{
+    margin:auto;
+    margin-top:20px;
+    border:2px solid black;
+    width: max-content;
+    padding:10px;
+    
+    
+}
+.lab{
+    margin: 20px;
+    width: 263px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+input{
+    margin: 20px;
+    margin-top: 0px;
+    width: 263px;
+    height: 43px;
+    padding: 0px;
+}
+select{
+    margin: 20px;
+    margin-top: 0px;
+    width: 263px;
+    height: 43px;
+    padding: 0px;
+}
+.from{
+    margin-bottom:10px;
+}
+.amou{
+   
+    margin:0px;
+    color:green;
+}
+#from{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+#button{
+    display: block;
+    margin-top:5px;
+    
+}
