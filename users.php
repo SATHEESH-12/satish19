@@ -15,6 +15,7 @@ $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
   // output data of each row
+  //Test
   echo "<table style=margin:auto>";
   echo "<tr>";
   echo "<th>SL NO.</th>";
